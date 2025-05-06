@@ -7,7 +7,7 @@
 使用以下指令打包應用程式：
 
 ```bash
-docker build -t yourusername/2025cloud:v1.0 .
+docker build -t R1375/2025cloud:v1.0 .
 ```
 
 ## 運行容器
@@ -15,7 +15,7 @@ docker build -t yourusername/2025cloud:v1.0 .
 使用以下指令運行容器：
 
 ```bash
-docker run -p 8080:80 yourusername/2025cloud:v1.0
+docker run -p 8080:80 R1375/2025cloud:v1.0
 ```
 
 運行後，可以在瀏覽器中訪問 http://localhost:8080 查看應用。
