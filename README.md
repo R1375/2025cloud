@@ -7,4 +7,4 @@
 使用以下指令打包應用程式：
 
 ```bash
-docker build -t ian80327/2025cloud:v1.0 .
+docker build -t R1375/2025cloud:v1.0 .
